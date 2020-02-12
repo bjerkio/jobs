@@ -1,8 +1,7 @@
-# Open Positions @ Bjerk 🌳
+# Looking for a new place to work? 
 
-This repository contains open positions at Bjerk. 
+This repository contains open positions at Bjerk. 🌳
 
-## Current Open Positions
 - [Project Manager](jobs/2020_ProjectManager.md) (Only available in Norwegian)
 
 ## Who are we?
