@@ -29,3 +29,5 @@ oss "skravle"litt så blir vi kjent!
 
 Søknad sendes til so@bjerk.io. Har du spørsmål, er Simen tilgjengelig for en prat! Han
 er på telefon 95 30 80 87
+
+**Update November 2020**: This position is filled by [@AnnaBjerk](https://github.com/annabjerk/)
